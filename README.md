@@ -12,12 +12,20 @@ The project combines object detection, tracking, and OCR to create a simple, end
  ✨ Main Features
 ✔ Helmet Detection
 Checks whether a rider is wearing a helmet and flags violations.
+
+
 ✔ Speed Estimation
 Tracks vehicles across frames and estimates their speed. If a vehicle crosses the defined speed limit, it is marked as overspeeding.
+
+
 ✔ Red-Light Monitoring
 Detects the state of the traffic signal and checks if a vehicle crosses the stop line during a red light.
+
+
 ✔ Lane & Wrong-Way Detection
 Defines regions of interest and identifies if a vehicle changes lanes illegally or enters a lane in the wrong direction.
+
+
 ✔ Number Plate Recognition
 Detects license plates and extracts the plate number using OCR.
 
